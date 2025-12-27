@@ -1,5 +1,8 @@
 # E-commerce-Furniture-Sales-Analysis-2024-
 
+<img width="258" height="234" alt="image" src="https://github.com/user-attachments/assets/ad55e056-dd99-40b5-ab5f-15146127dc0b" />
+
+
 This project analyzes online furniture sales data to understand product performance, pricing behavior, discount impact, and revenue concentration.  
 The project follows a **complete data analyst workflow** with strong business relevance.
 
